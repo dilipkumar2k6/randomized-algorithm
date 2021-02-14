@@ -1,4 +1,6 @@
 # Fixed-Range Sampling
+https://www.youtube.com/watch?v=0r2D32esF3Y
+
 - input of size n items
 - get random number between 0 to n -1
 - return the item as per input[index]
